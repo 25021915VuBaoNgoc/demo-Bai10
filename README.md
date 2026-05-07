@@ -1,4 +1,6 @@
 Không tồn tại version 9.9.9 của dependency logback-classic
+    Error:  dependency: ch.qos.logback:logback-classic:jar:9.9.9 (compile)
+    Error:  	Could not find artifact ch.qos.logback:logback-classic:jar:9.9.9 in central
 
 maven-surefire-plugin version 2.12.4 -> version quá cũ k hỗ trợ JUnit 5 chỉ hỗ trợ IUnit 4
 
